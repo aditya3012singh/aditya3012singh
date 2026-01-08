@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on some exciting projects  
-- 🌱 I’m learning MERN stack, Next.js, PostgreSQL, and more  
+- 🌱 I’m learning PERN stack, Next.js, PostgreSQL, and more  
 - 💬 Ask me about databases, backend, and problem-solving  
 - 🤖 Fun fact: I can debug code but still struggle with CAPTCHA sometimes! 😅  
 
