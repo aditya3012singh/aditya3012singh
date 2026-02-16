@@ -22,7 +22,7 @@ I build **scalable, production-ready web applications** with a strong focus on
 
 ## 🚀 About Me
 - 🔭 Currently building **real-world full-stack & backend-heavy projects**
-- 🌱 Learning & applying **MERN + PERN**, **Next.js**, **Spring Boot**
+- 🌱 Learning & applying **MERN + PERN**, **Next.js**, **Spring Boot**, **NestJs**
 - ⚙️ Strong interest in **backend architecture, security & APIs**
 - 💬 Ask me about **databases, REST APIs, backend design, and problem-solving**
 - 🤖 Fun fact: I can debug complex bugs but still fail CAPTCHA tests sometimes 😅
