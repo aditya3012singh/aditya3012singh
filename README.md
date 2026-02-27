@@ -15,7 +15,7 @@
 
 🚀 **Full-Stack Developer | Backend-Focused | Java & JavaScript & TypeScript Ecosystem**
 
-I build **scalable, production-ready web applications** with a strong focus on  
+I build **scalable, production-ready web applications** with a strong focus on 
 **backend systems, APIs, authentication, and databases**, while crafting clean and responsive frontends.
 
 ---
