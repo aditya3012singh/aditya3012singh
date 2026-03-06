@@ -12,7 +12,7 @@
 ---
 
 ## 👋 Hi, I'm Aditya Singh  
-
+ 
 🚀 **Full-Stack Developer | Backend-Focused | Java & JavaScript & TypeScript Ecosystem**
 
 I build **scalable, production-ready web applications** with a strong focus on 
