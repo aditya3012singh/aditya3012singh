@@ -77,10 +77,10 @@ I build **scalable backend systems, real-time applications, and high-performance
 
 ## 🎯 What I'm Focused On
 
-- 🏗️ Scalable backend architectures  
+- 🏗️ Scalable backend architectures 
 - ⚡ Performance optimization & caching strategies  
 - 📡 Real-time systems & async processing  
-- 📐 System design and tradeoffs  
+- 📐 System design and tradeoffs
 
 ---
 
