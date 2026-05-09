@@ -65,7 +65,6 @@ I build **scalable backend systems, real-time applications, and high-performance
 - Redis caching layer for performance
 - Event-driven design using Kafka/RabbitMQ
 - Designed for **scalability and concurrency**
-
 ---
 
 ## 📈 GitHub Stats
