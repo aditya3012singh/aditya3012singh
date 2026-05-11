@@ -49,7 +49,6 @@ I build **scalable backend systems, real-time applications, and high-performance
 <p align="center">
   Redis | Kafka | Microservices | REST APIs | WebSockets
 </p>
-
 ---
 
 ## 🚀 Featured Work
