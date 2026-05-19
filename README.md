@@ -12,7 +12,7 @@
 
 ## 👋 Hi, I'm Aditya Singh  
 
-🚀 **Backend Engineer | Node.js, Microservices, Redis, Kafka**
+🚀 **Backend Engineer | Node.js, Microservices, Redis, Kafka, Distributed Systems**
 
 I build **scalable backend systems, real-time applications, and high-performance APIs** with a focus on **performance, reliability, and system design**.
 
