@@ -44,6 +44,8 @@ My interests revolve around:
 - 📊 Implemented **OpenTelemetry + Prometheus + Grafana**
 - 💼 Backend Intern at **CreditSea** and **LifeSet**
 
+
+
 ---
 
 # 🚀 Featured Projects
