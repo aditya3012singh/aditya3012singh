@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Singh;Backend+Engineer;Building+Scalable+Distributed+Systems;Redis+%7C+Spring+Boot+%7C+Node.js+%7C+System+Design" />
 </p>
 <h1 align="center">🚀 Aditya Singh</h1>
@@ -179,9 +179,9 @@ I believe good backend engineering is about making thoughtful trade-offs between
 
 ### ⭐ *"Good software isn't just code — it's reliability, scalability, and thoughtful engineering."*
 
-</p> -->
+</p> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Singh;Backend+Engineer;Building+Scalable+Distributed+Systems;Redis+%7C+Spring+Boot+%7C+Node.js+%7C+System+Design" />
 </p>
 
@@ -380,4 +380,4 @@ I believe good backend engineering is about balancing **performance, scalability
 
 ### ⭐ *"The best backend systems are the ones nobody notices—they're simply fast, reliable, and always available."*
 
-</p>
+</p> -->
