@@ -1,12 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Singh;Backend+Engineer;Building+Scalable+Distributed+Systems;Redis+%7C+Spring+Boot+%7C+Node.js+%7C+System+Design" />
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-6b49c9bb-8b6d-42cc-a8b8-3c5c4b8e8b6b.gif" width="850"/>
-</p>
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2f31bdf2-0fd0-4b58-a73f-3b8f7c4048e4.gif" width="850"/>
-</p> -->
 <h1 align="center">🚀 Aditya Singh</h1>
 
 <h3 align="center">
@@ -184,5 +178,206 @@ I believe good backend engineering is about making thoughtful trade-offs between
 <p align="center">
 
 ### ⭐ *"Good software isn't just code — it's reliability, scalability, and thoughtful engineering."*
+
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Singh;Backend+Engineer;Building+Scalable+Distributed+Systems;Redis+%7C+Spring+Boot+%7C+Node.js+%7C+System+Design" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2f31bdf2-0fd0-4b58-a73f-3b8f7c4048e4.gif" width="850"/>
+</p>
+
+<h1 align="center">🚀 Aditya Singh</h1>
+
+<h3 align="center">
+Backend Engineer • Distributed Systems • High Performance APIs • Event-Driven Architecture
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-singh-8b8045345">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aditya3012singh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya3012singh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/aditya3012singh?style=for-the-badge"/>
+</p>
+
+---
+
+# 👋 About Me
+
+Backend Engineer passionate about building scalable distributed systems, asynchronous architectures, and high-performance backend services.
+
+I enjoy solving engineering problems around caching, messaging systems, databases, observability, and system design while building software that performs reliably under production workloads.
+
+Currently exploring:
+
+- ☕ Spring Boot
+- ☸️ Kubernetes
+- ⚙️ JVM Internals
+- 🌩 Cloud Native Development
+- 🧩 Distributed Systems
+
+---
+
+# 📊 Engineering Snapshot
+
+| Metric | Value |
+|---------|------:|
+| 👨‍💻 Students Served | **3,000+** |
+| ⚡ API Latency | **4–5s → <200ms** |
+| 🚀 Backend Systems | **Event Driven** |
+| 🐳 Dockerized Services | **Yes** |
+| 📈 Observability | **Prometheus + Grafana + OpenTelemetry** |
+| 📨 Async Processing | **RabbitMQ + BullMQ** |
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,postgres,mongodb,redis,kafka,rabbitmq,docker,kubernetes,aws,git,github,linux&perline=8"/>
+</p>
+
+---
+
+# ❤️ Engineering Interests
+
+- 🚀 Distributed Systems
+- 📦 Event-Driven Architecture
+- ⚡ High Performance APIs
+- 🔄 Background Workers
+- 🧠 Redis & Distributed Caching
+- 📨 Message Queues
+- 📊 Observability
+- 🏗️ System Design
+- 🌐 Microservices
+
+---
+
+# 🚀 Featured Projects
+
+## 🏆 KIET Coding Analytics Platform
+
+Scalable coding analytics platform serving **3,000+ students**.
+
+### Highlights
+
+- 📊 Aggregates LeetCode, Codeforces, GitHub & GeeksforGeeks
+- ⚡ Redis Cache-Aside Pattern
+- 🔐 Distributed Locking
+- 🔄 Event Driven Architecture
+- 👷 Background Workers
+- 📈 Prometheus + Grafana + OpenTelemetry
+- 🐘 PostgreSQL Optimization
+
+---
+
+## ⚔️ ChallengX
+
+Real-time multiplayer competitive coding platform.
+
+### Features
+
+- ⚔️ 1v1 & Team Battles
+- 🐳 Docker Judge Workers
+- 📨 RabbitMQ Async Execution
+- 🌐 Socket.IO Live Updates
+- 🧠 Matchmaking Engine
+- 📊 Live Leaderboards
+- 🔁 Retry & Dead Letter Queue
+- 🏗️ Distributed Architecture
+
+---
+
+# 🧠 Backend Architecture
+
+```text
+                    Clients
+                        │
+             Nginx / API Gateway
+                        │
+             ┌──────────┴──────────┐
+             │                     │
+         Node.js API         Spring Boot
+             │                     │
+             └──── RabbitMQ ───────┘
+                        │
+                 Worker Services
+                        │
+                 Docker Judge Pool
+                        │
+          PostgreSQL + Redis Cache
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aditya3012singh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya3012singh&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya3012singh&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aditya3012singh&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya3012singh&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- Spring Security
+- JVM Performance
+- Distributed Transactions
+- CQRS
+- Event Sourcing
+- gRPC
+- Kubernetes
+- Cloud Native Patterns
+
+---
+
+# 💡 Engineering Philosophy
+
+> **Build simple. Measure everything. Optimize where it matters. Scale when required.**
+
+I believe good backend engineering is about balancing **performance, scalability, reliability, and maintainability** through thoughtful architectural decisions rather than unnecessary complexity.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aditya-singh-8b8045345">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aditya3012singh@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ *"The best backend systems are the ones nobody notices—they're simply fast, reliable, and always available."*
 
 </p>
