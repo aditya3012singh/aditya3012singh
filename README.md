@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Singh;Backend+Engineer;Building+Scalable+Distributed+Systems;Redis+%7C+Spring+Boot+%7C+Node.js+%7C+System+Design" />
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-6b49c9bb-8b6d-42cc-a8b8-3c5c4b8e8b6b.gif" width="850"/>
+</p>
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744275-2f31bdf2-0fd0-4b58-a73f-3b8f7c4048e4.gif" width="850"/>
 </p> -->
