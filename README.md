@@ -33,7 +33,7 @@ My interests revolve around:
 
 ---
 
-# 🏆 Highlights.    
+# 🏆 Highlights.      
 
 - 🏅 Built a **Coding Analytics Platform** serving **3,000+ students**
 - ⚡ Reduced API latency from **4–5 seconds → under 200 ms**
