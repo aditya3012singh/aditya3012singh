@@ -19,7 +19,7 @@ Backend Engineer • Distributed Systems • High Performance APIs • Real-Time
 I enjoy building **backend systems that remain fast, reliable, and scalable under real-world workloads.**
 
 My interests revolve around:
-
+   
 - ⚙️ Distributed Systems    
 - 🚀 Event-Driven Architectures
 - ⚡ High Throughput APIs
