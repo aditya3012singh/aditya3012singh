@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Singh;Backend+Engineer;Building+Scalable+Distributed+Systems;Redis+%7C+Spring+Boot+%7C+Node.js+%7C+System+Design" />
-</p>
+</p> 
 <h1 align="center">🚀 Aditya Singh</h1>   
 
 <h3 align="center">
